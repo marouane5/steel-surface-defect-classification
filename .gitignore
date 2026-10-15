@@ -1,0 +1,15 @@
+data/raw/*
+!data/raw/.gitkeep
+data/source_groups.csv
+outputs/*
+!outputs/.gitkeep
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+.venv_cuda/
+data/*.rar
+data/*.zip
+*.pt
+*.pth
+.project_notes/

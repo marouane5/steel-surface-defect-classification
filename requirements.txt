@@ -1,0 +1,10 @@
+# Core notebook and inference dependencies.
+# Install CUDA-enabled torch and torchvision with requirements-cuda.txt.
+numpy>=2.0,<3
+pandas>=2.2,<4
+matplotlib>=3.9,<4
+scikit-learn>=1.6,<2
+Pillow>=11,<13
+ipykernel>=6.29,<8
+nbformat>=5.10,<6
+nbclient>=0.10,<1
