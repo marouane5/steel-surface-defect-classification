@@ -1,0 +1,7 @@
+{
+  "status": "completed",
+  "executed_at_utc": "2026-10-15T03:09:56.182082+00:00",
+  "notebook_wall_seconds": 44.79253820001031,
+  "executed_code_cells": 19,
+  "note": "Final verification reused all completed training checkpoints; training duration is recorded separately in environment.json and validation_comparison.csv."
+}

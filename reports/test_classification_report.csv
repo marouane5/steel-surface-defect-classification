@@ -1,0 +1,7 @@
+,precision,recall,f1-score,support
+crazing,1.0,1.0,1.0,45.0
+inclusion,1.0,1.0,1.0,45.0
+patches,1.0,1.0,1.0,45.0
+pitted_surface,1.0,1.0,1.0,45.0
+rolled_in_scale,1.0,1.0,1.0,45.0
+scratches,1.0,1.0,1.0,45.0
